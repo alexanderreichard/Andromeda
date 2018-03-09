@@ -11,3 +11,5 @@ The moment I started learning to write code, I knew I wanted to build a virtual 
 **Progress:**
 - The tokenizer and "retokenizer" both function. 
 - The command "learn: _____ is _____" writes new words into the dictionary for the retokenizer to use
+- Start of system for keeping track of individuals, conversation topics, and types of statements (question, statement, task query).
+ 
