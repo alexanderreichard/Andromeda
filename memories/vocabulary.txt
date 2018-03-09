@@ -1,0 +1,10 @@
+GREETINGS
+hello
+hey
+
+QUESTIONS
+who
+what
+where
+when
+why
